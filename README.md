@@ -1,4 +1,4 @@
-# TDA-Fall2025
+# EAFIT - TDA 2025
 
-## Installing Python:
-Get Python installed in your machine. I suggest using the latest Anaconda distribution: https://www.anaconda.com/products/distribution
+## Para instalar Python:
+Recomiendo descargar la ultima distribucion de Anaconda : https://www.anaconda.com/products/distribution

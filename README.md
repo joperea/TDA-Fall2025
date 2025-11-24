@@ -5,7 +5,9 @@
 
 **Clase 2:** Componentes arco-conexas, 0-homologia, agrupamientos/clustering
 
-**Clase 3:** Complejos simpliciales, caracteristica de Euluer, homologia n-dimensional
+**Clase 3:** Complejos simpliciales, caracteristica de Euler, homologia n-dimensional
+
+**Clase 4:** Numeros de Betti con ejemplos, curvas de Euler/Betti
 
 ## Para instalar Python:
 Recomiendo descargar la ultima distribucion de Anaconda : https://www.anaconda.com/products/distribution

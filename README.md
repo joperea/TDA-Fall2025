@@ -9,5 +9,7 @@
 
 **Clase 4:** Numeros de Betti con ejemplos, curvas de Euler/Betti
 
+**Clase 5:** Persistencia homologica para machine learning
+
 ## Para instalar Python:
 Recomiendo descargar la ultima distribucion de Anaconda : https://www.anaconda.com/products/distribution
